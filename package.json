@@ -4,7 +4,7 @@
   "description": "JS only version of SafeAreaView for supporting iPhone X safe area insets.",
   "main": "index",
   "repository": {
-    "url": "git@github.com:Snailapp/react-native-safe-area-view.git",
+    "url": "git@github.com:leonardo-bonetti-skip/react-native-safe-area-view.git",
     "type": "git"
   },
   "files": [
